@@ -53,6 +53,11 @@ A Galaxy Schema was used to organize the data and make it easier to analyze the 
 ## Dashboard
 
 The final dashboards bring the main results together in an interactive format, allowing users to explore accident trends and compare different categories and periods.
+### Excel Dashboard
+![Excel Dashboard](Dashboards/Excel_dashboards.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](Dashboards/Power%20bi_dashboards.png)
 
 ## Tools
 
@@ -67,6 +72,7 @@ The final dashboards bring the main results together in an interactive format, a
 
 ---
 ##  Project Folder Structure :
+```text
 │
 ├── Data/
 │   ├── DATA 2022.pdf
@@ -91,4 +97,6 @@ The final dashboards bring the main results together in an interactive format, a
 │
 ├── Proposal.pptx
 ├── NTI_Road_Accidents_Presentation.pptx
-├── README.md
+└── README.md
+```
+
