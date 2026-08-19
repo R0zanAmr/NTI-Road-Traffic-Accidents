@@ -57,6 +57,8 @@ The final dashboards bring the main results together in an interactive format, a
 ![Excel Dashboard](Dashboards/Excel_dashboards.png)
 
 ### Power BI Dashboard
+![Power BI Landing Page](./Dashboards/Power%20bi_Landing%20page.png)
+
 ![Power BI Dashboard](Dashboards/Power%20bi_dashboards.png)
 
 ## Tools
